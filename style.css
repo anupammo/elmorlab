@@ -1,0 +1,16 @@
+body {
+    background-color: #1d1b1a;
+}
+#bg-green {
+    background-color: #041001;
+}
+#header-bg {
+    background-image: url('mainbanner.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#players-bg {
+    background-image: url('players.png');
+    background-position: center;
+    background-size: cover;
+}
